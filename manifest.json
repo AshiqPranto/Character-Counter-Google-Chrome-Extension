@@ -1,0 +1,11 @@
+{
+    "name": "Character Counter",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Count highlighted characters.",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": ["activeTab"],
+    "browser_action": {}
+}
